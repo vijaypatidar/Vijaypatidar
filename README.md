@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 &nbsp;Hey there! I'm Vijay
+* 💡 &nbsp;I'm a Software engineer
 
-<!--
-**vijaypatidar/Vijaypatidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 &nbsp;Tech Stack
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java"></a>&nbsp;
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="50" height="50" alt="Typescript"></a>&nbsp;
+<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"></a>&nbsp;
+<a href="https://www.sqlite.org/index.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite"></a>&nbsp;
+<a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"></a>&nbsp;
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git"></a>&nbsp;
+<a href="https://www.markdownguide.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="50" height="50" alt="Markdown"></a>&nbsp;
+<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="Visual Studio Code"></a>&nbsp;
+<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"></a>&nbsp;
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ &nbsp;GitHub Stats
+
+<p align="center">
+<a href="https://github.com/vijaypatidar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vijaypatidar&theme=github_dark&layout=compact&show_icons=true&border=false&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaypatidar&layout=compact&theme=github_dark&langs_count=8&show_icons=true&border=false&include_all_commits=true&count_private=true&hide_border=true"/>
+</a>
+</p>
+
+## 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/vijaypatidar31" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="finn-lancaster" height="50" /></a>&nbsp;
+<a href="https://stackoverflow.com/users/9534835/vijay-patidar"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="50"/></a>
+</p>
