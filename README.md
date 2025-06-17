@@ -1,5 +1,6 @@
-# 👋 &nbsp;Hey there! I'm Vijay
-* 💡 &nbsp;I'm a Software engineer
+# 👋 Hey there! I'm Vijay
+* 💡 I'm Full Stack Java Developer
+* 📚 I'm learning Elastic search and Apache Flink 
 
 ## 🛠 &nbsp;Tech Stack
 
