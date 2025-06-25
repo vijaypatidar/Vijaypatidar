@@ -1,6 +1,7 @@
 # 👋 Hey there! I'm Vijay
-* 💡 I'm Full Stack Java Developer
-* 📚 I'm learning Elastic search and Apache Flink 
+* 💡 Full Stack Java Developer
+* 📚 Learning  Apache Flink and Elasticsearch
+
 
 ## 🛠 &nbsp;Tech Stack
 
