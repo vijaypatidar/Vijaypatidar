@@ -1,6 +1,7 @@
 # 👋 Hey there! I'm Vijay
 * 💡 Full Stack Java Developer
-* 📚 Learning  Apache Flink and Elasticsearch
+* 🛠️ Building Elastic Seamless Upgrade tool [link](https://github.com/ConsultaddHQ/elastic-seamless-upgrade-tool)
+* 📚 Learning Elasticsearch
 
 
 ## 🛠 &nbsp;Tech Stack
