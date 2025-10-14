@@ -1,6 +1,7 @@
 # 👋 Hey there! I'm Vijay
 * 💡 Full Stack Java Developer
 * 🛠️ Building Elastic Seamless Upgrade tool [link](https://github.com/ConsultaddHQ/elastic-seamless-upgrade-tool)
+* 🛠️ Contributing to Langchain4J [link](https://github.com/vijaypatidar/langchain4j)
 * 📚 Learning Elasticsearch
 
 
